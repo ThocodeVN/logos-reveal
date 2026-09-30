@@ -1,5 +1,5 @@
 import annaTranThaoLyPhoto from './Ảnh thí sinh/Anna Trần Thảo Ly.jpg'
-import antonThachHoangLongPhoto from './Ảnh thí sinh/Anton Thạch Nguyễn Hoàng Long.JPG?url'
+import antonThachHoangLongPhoto from './Ảnh thí sinh/Anton Thạch Nguyễn Hoàng Long.JPG'
 import giuseQuocKhangPhoto from './Ảnh thí sinh/Giuse Đỗ Quốc Khang.jpg'
 import mariaBuiMinhThaoPhoto from './Ảnh thí sinh/Maria Bùi Võ Minh Thảo.jpeg'
 import mariaHaKyMyPhoto from './Ảnh thí sinh/Maria Nguyễn Hà Kỳ Mỹ.jpg'
@@ -11,17 +11,16 @@ import teresaPhuongThaoPhoto from './Ảnh thí sinh/Teresa Phạm Thị Phươn
 import mariaMadMinhKhuePhoto from './Ảnh thí sinh/Maria Mad. Nguyễn Từ Minh Khuê.jpg'
 import phaoloThanhTrungPhoto from './Ảnh thí sinh/Phaolo Nguyễn Thành Trung.jpg'
 import pheroBaoDuyPhoto from './Ảnh thí sinh/Phero Huỳnh Nguyễn Bảo Duy.jpg'
-import alfonsoDuyQuangPhoto from './Ảnh đồng hành/Alfonso Phạm Duy Quang.JPG?url'
+import alfonsoDuyQuangPhoto from './Ảnh đồng hành/Alfonso Phạm Duy Quang.JPG'
 import andrewHongAnPhoto from './Ảnh đồng hành/Andrew Phạm Hồng Ân.jpg'
-import gioakimVanTaiPhoto from './Ảnh đồng hành/GioaKim Phạm Văn Tài.JPG?url'
+import gioakimVanTaiPhoto from './Ảnh đồng hành/GioaKim Phạm Văn Tài.JPG'
 import gioanPhiLongPhoto from './Ảnh đồng hành/Gioan B. Nguyễn Phi Long.jpg'
 import giuseTrungKienPhoto from './Ảnh đồng hành/Giuse Trần Trung Kiên.jpg'
 import giuseDinhTuanPhoto from './Ảnh đồng hành/Giuse Tạ Đình Tuấn.jpg'
 import ngoVinhDucPhoto from './Ảnh đồng hành/Ngô Vinh Đức.jpg'
 import pheroDinhQuynhPhoto from './Ảnh đồng hành/Phero Đặng Đình Quynh.jpg'
-import tomaTanNguyenPhoto from './Ảnh đồng hành/Toma Lê Tấn Nguyễn.JPG?url'
+import tomaTanNguyenPhoto from './Ảnh đồng hành/Toma Lê Tấn Nguyễn.jpg'
 import giuseXuanToaPhoto from './Ảnh đồng hành/Giuse Nguyễn Xuân Tọa.jpg'
-
 // ============================================================
 //  NƠI DUY NHẤT CẦN SỬA: tên thánh + họ tên của thí sinh / thầy.
 //  P('Tên thánh', 'Họ và tên')
