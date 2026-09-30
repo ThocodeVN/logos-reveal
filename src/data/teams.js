@@ -18,7 +18,7 @@ import gioanPhiLongPhoto from './Ảnh đồng hành/Gioan B. Nguyễn Phi Long.
 import giuseTrungKienPhoto from './Ảnh đồng hành/Giuse Trần Trung Kiên.jpg'
 import giuseDinhTuanPhoto from './Ảnh đồng hành/Giuse Tạ Đình Tuấn.jpg'
 import ngoVinhDucPhoto from './Ảnh đồng hành/Ngô Vinh Đức.jpg'
-import pheroDinhQuynhPhoto from './Ảnh đồng hành/Phero Đặng Đình Quynh.JPG?url'
+import pheroDinhQuynhPhoto from './Ảnh đồng hành/Phero Đặng Đình Quynh.jpg'
 import tomaTanNguyenPhoto from './Ảnh đồng hành/Toma Lê Tấn Nguyễn.JPG?url'
 import giuseXuanToaPhoto from './Ảnh đồng hành/Giuse Nguyễn Xuân Tọa.jpg'
 
